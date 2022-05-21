@@ -1,0 +1,1 @@
+pnpm create vite vue3-ts-template-mangosteen -- --template vue-ts
