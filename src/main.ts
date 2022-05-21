@@ -1,6 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import { router } from './router'
+import 'virtual:svg-icons-register'
 
 // 5. 创建并挂载根实例
 const app = createApp(App)
